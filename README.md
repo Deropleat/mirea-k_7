@@ -60,3 +60,5 @@ There is no way out of the maze (1, 7)\
 There is no way out of the maze (1, 12)\
 There is no way out of the maze (4, 22)\
 Maze (14, 22) (12, 1)
+---
+### Автор - https://vk.com/grannsaker
