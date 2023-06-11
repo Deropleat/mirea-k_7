@@ -62,3 +62,4 @@ There is no way out of the maze (4, 22)\
 Maze (14, 22) (12, 1)
 ---
 ### Автор - https://vk.com/grannsaker
+   + Прямой путь по ID: https://vk.com/id226985307
